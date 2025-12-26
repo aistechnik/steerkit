@@ -1,9 +1,8 @@
-argparse==1.4.0
-einops==0.8.1
-numpy==1.26.3
-torch==2.2.2
-datasets==2.16.1
-matplotlib==3.10.8
-transformers==4.37.0
-tqdm==4.66.1
+einops
+numpy
+torch
+datasets
+matplotlib
+transformers
+tqdm
 
